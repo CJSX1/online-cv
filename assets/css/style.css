@@ -985,6 +985,20 @@ h2::after {
   background: #37b3ed;
 }
 
+.btn-custom {
+    background: #fbfbfb;
+    border: 1px solid #149ddd;
+    padding: 10px 24px;
+    color: #149ddd;
+    transition: 0.4s;
+    /* border-radius: 4px; */
+}
+
+.btn-custom:hover {
+  background: #37b3ed;
+  color: white;
+}
+
 @-webkit-keyframes animate-loading {
   0% {
     transform: rotate(0deg);
