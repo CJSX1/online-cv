@@ -986,10 +986,10 @@ h2::after {
 }
 
 .btn-custom {
-    background: #fbfbfb;
+    background: #149ddd;
     border: 1px solid #149ddd;
     padding: 10px 24px;
-    color: #149ddd;
+    color: #FFFFFF;
     transition: 0.4s;
     /* border-radius: 4px; */
 }
